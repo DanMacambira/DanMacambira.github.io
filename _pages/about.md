@@ -8,13 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the <a href="https://www.parisschoolofeconomics.eu/en/about/">Paris School of Economics (PSE)</a>. Prior to that, I was a Postdoctoral Research Fellow in Economics at the [University of Oxford](https://www.ox.ac.uk/) and a Non-Stipendiary Research Fellow at [Nuffield College](https://www.nuffield.ox.ac.uk/).
+I am a MRes student in Economics at the <a href="https://www.parisschoolofeconomics.eu/en/about/">Paris School of Economics (PSE)</a>. Prior to that, I completed a MPhil dissertation in Economic and Social History under the supervision of Alexis Litvine at the [University of Cambridge](https://), Queens' College. I also worked as a Pre-Doc in American Public Health at the Yale School of Public Health as part of the Tobin predoctoral program.
 
 
-My main field of research is Econometrics, with a focus on the identification and estimation of nonlinear panel data models. I am particularly interested in the use of high-dimensional statistics and machine learning tools to solve such problems. 
-
-I hold a PhD in Economics from the [Institut Polytechnique de Paris](https://www.ip-paris.fr/), which I prepared at [CREST](http://crest.science/) and defended at [ENSAE Paris](https://www.ensae.fr/) in June 2023.
-
-
-**Contact:** martin \[dot\] mugnier \[at\] psemail \[dot\] eu.
-
+**Contact:** danil.agafiev.macambira \[at\] ens.psl.eu.
