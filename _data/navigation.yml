@@ -7,8 +7,8 @@ main:
   - title: "Curriculum Vitae"
     url: /cv/
     
-  - title: "Teaching"
-    url: /teaching/
+ # - title: "Teaching"
+ #   url: /teaching/
     
 #  - title: "Misc."
 #    url: /miscellaneous/
