@@ -18,7 +18,7 @@ author_profile: true
 ## Ice-boxed Work
 
 <ul>
-  <li> Agafiev Macambira, Danil and Lee, Gabrielle. 2019. “Relationship between the share of women GPs and patient satisfaction: a case for gender equality in the future health care workplace”. [<a href="[https://arxiv.org/abs/2009.09998](https://info.lse.ac.uk/staff/divisions/Eden-Centre/Assets-EC/Documents/GROUPS-papers/GROUPS-2019/Relationship-between-the-share-of-women-GPs-and-patient-satisfaction-a-case-for-gender-equalityGender-equality-and-gender-balance-are-used-interc-1-1.pdf)">LSE GROUPS '19 short paper.</a>]
+  <li> Agafiev Macambira, Danil and Lee, Gabrielle. 2019. “Relationship between the share of women GPs and patient satisfaction: a case for gender equality in the future health care workplace”. [<a href="https://info.lse.ac.uk/staff/divisions/Eden-Centre/Assets-EC/Documents/GROUPS-papers/GROUPS-2019/Relationship-between-the-share-of-women-GPs-and-patient-satisfaction-a-case-for-gender-equalityGender-equality-and-gender-balance-are-used-interc-1-1.pdf">LSE GROUPS '19 short paper</a>]
   </li>
 </ul>
  
