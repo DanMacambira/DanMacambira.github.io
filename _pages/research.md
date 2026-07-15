@@ -10,7 +10,7 @@ author_profile: true
 <ul>
  <li> Agafiev Macambira, Danil, Michael Geruso, Anthony Lollo, Chima D. Ndumele, and Jacob Wallace. 2026. <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20230541">The Private Provision of Public Services: Evidence from Random Assignment in Medicaid.</a> <em><b>American Economic Review.</b></em> 116 (6): 2038–84. [<a href="https://www.aeaweb.org/research/chart/private-provision-public-services">AEA Research Highlights</a>]. [<a href="https://www.nber.org/papers/w30390">NBER working paper</a>]. [<a href="{{ site.baseurl }}/files/PvP_NBERSI_slides.pdf" download>Slides</a>].
  </li>
- <li> Wallace J, Ndumele CD, Lollo A, et al.. Attributing Racial Differences in Care to Health Plan Performance or Selection. 2025. <em><b> JAMA Intern Med.</b></em> 185(1):61-72. [<a href="https://pubmed.ncbi.nlm.nih.gov/39585673">Article</a>]
+ <li> Wallace J, Ndumele CD, Lollo A, et al.. <a href="https://pubmed.ncbi.nlm.nih.gov/39585673">Attributing Racial Differences in Care to Health Plan Performance or Selection.</a> 2025. <em><b> JAMA Intern Med.</b></em> 185(1):61-72.
  </li>
 </ul>
 
