@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Danil Agafiev Macambira"
 title_separator          : "-"
 name                     : &name "Danil Agafiev Macambira"
-description              : &description "MRes Student"
+description              : &description "MRes Student at the Paris School of Economics"
 url                      : "https://danilagafievmacambira.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DanMacambira/DanMacambira.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Danil Agafiev Macambira"
-  avatar           : bio-photo.jpg # Tom Weller Photography
-  bio              : "MRes Student"
-  location         : "Paris School of Economics"
+  avatar           : bio-photo.jpg
+  bio              : "MRes Student at the Paris School of Economics"
+  location         : "Paris, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/danilagafievmacambira/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -263,14 +263,14 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jemoji
 
 
