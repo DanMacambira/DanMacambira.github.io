@@ -7,12 +7,12 @@ main:
   - title: "Curriculum Vitae"
     url: /cv/
     
- # - title: "Teaching"
- #   url: /teaching/
-    
  - title: "Misc."
    url: /miscellaneous/
 
+ # - title: "Teaching"
+ #   url: /teaching/
+ 
 #  - title: "Publications"
  #   url: /publications/
 
